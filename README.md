@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm passionate about front-end development and alw
 - **Web Development**: Whether it's a beginner project or something more advanced, let’s work together!
 
 ### 📫 How to Reach Me:
-- [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/christopher-wierzbach-002b63204/))
+- [LinkedIn](https://www.linkedin.com/in/christopher-wierzbach-002b63204/)
 - [Email](mailto:your.wierzbach@hotmail.com)
 - Feel free to reach out if you’d like to connect or work together!
 
